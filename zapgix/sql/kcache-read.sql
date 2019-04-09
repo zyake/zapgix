@@ -1,0 +1,1 @@
+SELECT reads FROM pg_stat_kcache;

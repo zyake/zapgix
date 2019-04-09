@@ -1,0 +1,1 @@
+SELECT writes FROM pg_stat_kcache;
